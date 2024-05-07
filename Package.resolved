@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "jlogger",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Junha-SDK/JLogger",
+      "state" : {
+        "revision" : "6ce29eefa5f05796a54c0d4f3a935ffc53e49d3c",
+        "version" : "0.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
